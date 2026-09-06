@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyReport", "DailyReport\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math and Comparison Operators Assignment", "Math and Comparison Operators Assignment\Math and Comparison Operators Assignment.csproj", "{E570A3D7-81C7-4AA6-A601-E526D6228502}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Assignment", "String Assignment\String Assignment.csproj", "{67963B87-FA41-461C-9004-1A4184FE5837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E570A3D7-81C7-4AA6-A601-E526D6228502}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E570A3D7-81C7-4AA6-A601-E526D6228502}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E570A3D7-81C7-4AA6-A601-E526D6228502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67963B87-FA41-461C-9004-1A4184FE5837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67963B87-FA41-461C-9004-1A4184FE5837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67963B87-FA41-461C-9004-1A4184FE5837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67963B87-FA41-461C-9004-1A4184FE5837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
